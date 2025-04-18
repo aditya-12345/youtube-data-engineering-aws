@@ -31,3 +31,9 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 ## Quicksight DashBoard by AWS
 <img src="image1.png">
 <img src="image2.png">
+
+## Acknowledgment
+
+This project was inspired and guided by the amazing work done in [darshilparmar/dataengineering-youtube-analysis-project](https://github.com/darshilparmar/dataengineering-youtube-analysis-project).  
+A big thank you to the creator for providing such a valuable reference!
+
